@@ -11,6 +11,12 @@ Daily problem-solving repository covering Data Structures, Algorithms, and IT pl
 - **Day 6 (`day6_missing_number.py`):** Missing Number in Sequence (Math Formula & Bitwise XOR)
 - **Day 7 (`day7_two_sum.py`):** Two Sum Problem (O(N) Hash Map Lookup)
 
+## Week 2: Linear Data Structures (Stacks & Linked Lists)
+- **Day 8 (`day8_valid_parentheses.py`):** Valid Parentheses & Balanced Brackets (Stack LIFO)
+- **Day 9 (`day9_middle_of_linked_list.py`):** Middle of a Linked List (Tortoise & Hare Two-Pointer)
+- **Day 10 (`day10_detect_cycle_linked_list.py`):** Detect Cycle in Linked List (Floyd's Algorithm)
+
 ## Tech Stack & Tools
 - **Language:** Python 3
 - **Focus Areas:** Data Structures, Time & Space Complexity Optimization, Edge-Case Testing
+
